@@ -1,0 +1,14 @@
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.1\RecipeApi.deps.json
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.1\RecipeApi.runtimeconfig.json
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.1\RecipeApi.runtimeconfig.dev.json
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.1\RecipeApi.dll
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\bin\Debug\netcoreapp2.1\RecipeApi.pdb
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.csprojAssemblyReference.cache
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.csproj.CoreCompileInputs.cache
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.RazorAssemblyInfo.cache
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.RazorAssemblyInfo.cs
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.AssemblyInfoInputs.cache
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.AssemblyInfo.cs
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.dll
+C:\Users\Torbjørn\Documents\Visual Studio 2017\Projects\RecipeApi\RecipeApi\obj\Debug\netcoreapp2.1\RecipeApi.pdb
